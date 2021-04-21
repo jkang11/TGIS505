@@ -119,18 +119,12 @@
 //Other Places to visit
           var geojson ={"type":"FeatureCollection", "features": [
 
-          {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.4403619, 47.2545226]},"properties":{"OBJECTID":261,"NAME":"Theatre on the Square","ADDRESS":"915 Broadway","CITY":"TACOMA", 'description':
-          '<p><a href="https://www.tacomaartslive.org/" target="_blank" title="Opens in a new window">Theatre on the Square</a> is a modern, 300-seat theater located in a historic Theater District of Tacoma.</p>'}},
+          {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.4782806, 47.2159539 ]},"properties":{"OBJECTID":261,"NAME":"Alder Court Apartment","ADDRESS":"N/A","CITY":"TACOMA", 'description':
+          '<p>This is where I currently live!</p>'}},
 
 
-          {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.4886158, 47.2716801]},"properties":{"OBJECTID":273,"NAME":"Blue mouse theatre","ADDRESS":"2611 N Proctor Street","CITY":"TACOMA", 'description':
-          '<p><a href="https://bluemousetheatre.com/" target="_blank" title="Opens in a new window">Blue mouse theatre</a> is a small second-run movie theater located in the Proctor District in the north end of Tacoma and the oldest continuously operating theater in Washington State.</p>'}},
-
-          {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.4526455, 47.2623197]},"properties":{"OBJECTID":273,"NAME":"Tacoma Little theatre","ADDRESS":"210 N I Street","CITY":"TACOMA", 'description':
-          '<p><a href="https://www.tacomalittletheatre.com/" target="_blank" title="Opens in a new window">Tacoma Little theatre</a> is a small community performing arts center dating to 1918 with 6 plays per year & educational programs.</p>'}},
-
-          {"type":"Feature","geometry":{"type":"Point","coordinates":[-122.5320482, 47.2553082]},"properties":{"OBJECTID":274,"NAME":"Tacoma Musical Playhouse","ADDRESS":"7116 6th Ave","CITY":"TACOMA", 'description':
-          '<p><a href="https://tmp.org/" target="_blank" title="Opens in a new window">Tacoma Musical Playhouse</a> is a community performing arts center in a renovated movie house staging musicals for adults & children.</p>'}}
+          {"type":"Feature","geometry":{"type":"Point","coordinates":[127.1342547, 37.5446945]},"properties":{"OBJECTID":273,"NAME":"Home in Korea","ADDRESS":"서울시 강동구 천호동 구천면로 278","CITY":"TACOMA", 'description':
+          '<p>This is where my family live in Korea and where I used to live!</p>'}},
 
           ]};
 
